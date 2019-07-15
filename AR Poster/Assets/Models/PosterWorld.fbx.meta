@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: a78f119f88e04bc43889b4be2b3e493e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bridge
+    100002: Castle
+    100004: Castle 1
+    100006: Castle1
+    100008: Castle2
+    100010: Castle3
+    100012: Castle_Wall
+    100014: Cloud1
+    100016: Cloud1 1
+    100018: Cloud10
+    100020: Cloud10 1
+    100022: Cloud13
+    100024: Cloud13 1
+    100026: Cloud14
+    100028: Cloud14 1
+    100030: Cloud2
+    100032: Cloud2 1
+    100034: Cloud3
+    100036: Cloud3 1
+    100038: Cloud4
+    100040: Cloud4 1
+    100042: Cloud6
+    100044: Cloud6 1
+    100046: Cloud9
+    100048: Cloud9 1
+    100050: Clouds
+    100052: Clouds2
+    100054: Docks
+    100056: Floating_Log
+    100058: Ground1
+    100060: House
+    100062: Log
+    100064: Log1
+    100066: Log2
+    100068: Log3
+    100070: Log4
+    100072: Log5
+    100074: Logs
+    100076: Mountain
+    100078: Mountain1
+    100080: Mountain2
+    100082: //RootNode
+    100084: River
+    100086: Rock
+    100088: Rock1
+    100090: Rock10
+    100092: Rock11
+    100094: Rock12
+    100096: Rock2
+    100098: Rock3
+    100100: Rock4
+    100102: Rock5
+    100104: Rock6
+    100106: Rock7
+    100108: Rock8
+    100110: Rock9
+    100112: Rocks1
+    100114: Tree
+    100116: Tree1
+    100118: Tree10
+    100120: Tree11
+    100122: Tree12
+    100124: Tree13
+    100126: Tree14
+    100128: Tree15
+    100130: Tree16
+    100132: Tree17
+    100134: Tree18
+    100136: Tree19
+    100138: Tree2
+    100140: Tree20
+    100142: Tree21
+    100144: Tree22
+    100146: Tree23
+    100148: Tree24
+    100150: Tree25
+    100152: Tree26
+    100154: Tree27
+    100156: Tree28
+    100158: Tree29
+    100160: Tree3
+    100162: Tree30
+    100164: Tree31
+    100166: Tree32
+    100168: Tree33
+    100170: Tree34
+    100172: Tree35
+    100174: Tree36
+    100176: Tree37
+    100178: Tree38
+    100180: Tree39
+    100182: Tree4
+    100184: Tree5
+    100186: Tree6
+    100188: Tree8
+    100190: Tree9
+    100192: Trees
+    400000: Bridge
+    400002: Castle
+    400004: Castle 1
+    400006: Castle1
+    400008: Castle2
+    400010: Castle3
+    400012: Castle_Wall
+    400014: Cloud1
+    400016: Cloud1 1
+    400018: Cloud10
+    400020: Cloud10 1
+    400022: Cloud13
+    400024: Cloud13 1
+    400026: Cloud14
+    400028: Cloud14 1
+    400030: Cloud2
+    400032: Cloud2 1
+    400034: Cloud3
+    400036: Cloud3 1
+    400038: Cloud4
+    400040: Cloud4 1
+    400042: Cloud6
+    400044: Cloud6 1
+    400046: Cloud9
+    400048: Cloud9 1
+    400050: Clouds
+    400052: Clouds2
+    400054: Docks
+    400056: Floating_Log
+    400058: Ground1
+    400060: House
+    400062: Log
+    400064: Log1
+    400066: Log2
+    400068: Log3
+    400070: Log4
+    400072: Log5
+    400074: Logs
+    400076: Mountain
+    400078: Mountain1
+    400080: Mountain2
+    400082: //RootNode
+    400084: River
+    400086: Rock
+    400088: Rock1
+    400090: Rock10
+    400092: Rock11
+    400094: Rock12
+    400096: Rock2
+    400098: Rock3
+    400100: Rock4
+    400102: Rock5
+    400104: Rock6
+    400106: Rock7
+    400108: Rock8
+    400110: Rock9
+    400112: Rocks1
+    400114: Tree
+    400116: Tree1
+    400118: Tree10
+    400120: Tree11
+    400122: Tree12
+    400124: Tree13
+    400126: Tree14
+    400128: Tree15
+    400130: Tree16
+    400132: Tree17
+    400134: Tree18
+    400136: Tree19
+    400138: Tree2
+    400140: Tree20
+    400142: Tree21
+    400144: Tree22
+    400146: Tree23
+    400148: Tree24
+    400150: Tree25
+    400152: Tree26
+    400154: Tree27
+    400156: Tree28
+    400158: Tree29
+    400160: Tree3
+    400162: Tree30
+    400164: Tree31
+    400166: Tree32
+    400168: Tree33
+    400170: Tree34
+    400172: Tree35
+    400174: Tree36
+    400176: Tree37
+    400178: Tree38
+    400180: Tree39
+    400182: Tree4
+    400184: Tree5
+    400186: Tree6
+    400188: Tree8
+    400190: Tree9
+    400192: Trees
+    2100000: Grass
+    2100002: Tree_Green
+    2100004: Water
+    2100006: House_Texture
+    2100008: lambert1
+    2100010: Snow
+    2100012: Tree_Brown
+    2100014: Bridge_Stone
+    2100016: Brown
+    2100018: Kasteel_Texture
+    2100020: Stone
+    2300000: Bridge
+    2300002: Castle 1
+    2300004: Castle1
+    2300006: Castle2
+    2300008: Castle3
+    2300010: Castle_Wall
+    2300012: Cloud1
+    2300014: Cloud1 1
+    2300016: Cloud10
+    2300018: Cloud10 1
+    2300020: Cloud13
+    2300022: Cloud13 1
+    2300024: Cloud14
+    2300026: Cloud14 1
+    2300028: Cloud2
+    2300030: Cloud2 1
+    2300032: Cloud3
+    2300034: Cloud3 1
+    2300036: Cloud4
+    2300038: Cloud4 1
+    2300040: Cloud6
+    2300042: Cloud6 1
+    2300044: Cloud9
+    2300046: Cloud9 1
+    2300048: Docks
+    2300050: Floating_Log
+    2300052: Ground1
+    2300054: House
+    2300056: Log
+    2300058: Log1
+    2300060: Log2
+    2300062: Log3
+    2300064: Log4
+    2300066: Log5
+    2300068: Mountain
+    2300070: Mountain1
+    2300072: Mountain2
+    2300074: River
+    2300076: Rock
+    2300078: Rock1
+    2300080: Rock10
+    2300082: Rock11
+    2300084: Rock12
+    2300086: Rock2
+    2300088: Rock3
+    2300090: Rock4
+    2300092: Rock5
+    2300094: Rock6
+    2300096: Rock7
+    2300098: Rock8
+    2300100: Rock9
+    2300102: Tree
+    2300104: Tree1
+    2300106: Tree10
+    2300108: Tree11
+    2300110: Tree12
+    2300112: Tree13
+    2300114: Tree14
+    2300116: Tree15
+    2300118: Tree16
+    2300120: Tree17
+    2300122: Tree18
+    2300124: Tree19
+    2300126: Tree2
+    2300128: Tree20
+    2300130: Tree21
+    2300132: Tree22
+    2300134: Tree23
+    2300136: Tree24
+    2300138: Tree25
+    2300140: Tree26
+    2300142: Tree27
+    2300144: Tree28
+    2300146: Tree29
+    2300148: Tree3
+    2300150: Tree30
+    2300152: Tree31
+    2300154: Tree32
+    2300156: Tree33
+    2300158: Tree34
+    2300160: Tree35
+    2300162: Tree36
+    2300164: Tree37
+    2300166: Tree38
+    2300168: Tree39
+    2300170: Tree4
+    2300172: Tree5
+    2300174: Tree6
+    2300176: Tree8
+    2300178: Tree9
+    3300000: Bridge
+    3300002: Castle 1
+    3300004: Castle1
+    3300006: Castle2
+    3300008: Castle3
+    3300010: Castle_Wall
+    3300012: Cloud1
+    3300014: Cloud1 1
+    3300016: Cloud10
+    3300018: Cloud10 1
+    3300020: Cloud13
+    3300022: Cloud13 1
+    3300024: Cloud14
+    3300026: Cloud14 1
+    3300028: Cloud2
+    3300030: Cloud2 1
+    3300032: Cloud3
+    3300034: Cloud3 1
+    3300036: Cloud4
+    3300038: Cloud4 1
+    3300040: Cloud6
+    3300042: Cloud6 1
+    3300044: Cloud9
+    3300046: Cloud9 1
+    3300048: Docks
+    3300050: Floating_Log
+    3300052: Ground1
+    3300054: House
+    3300056: Log
+    3300058: Log1
+    3300060: Log2
+    3300062: Log3
+    3300064: Log4
+    3300066: Log5
+    3300068: Mountain
+    3300070: Mountain1
+    3300072: Mountain2
+    3300074: River
+    3300076: Rock
+    3300078: Rock1
+    3300080: Rock10
+    3300082: Rock11
+    3300084: Rock12
+    3300086: Rock2
+    3300088: Rock3
+    3300090: Rock4
+    3300092: Rock5
+    3300094: Rock6
+    3300096: Rock7
+    3300098: Rock8
+    3300100: Rock9
+    3300102: Tree
+    3300104: Tree1
+    3300106: Tree10
+    3300108: Tree11
+    3300110: Tree12
+    3300112: Tree13
+    3300114: Tree14
+    3300116: Tree15
+    3300118: Tree16
+    3300120: Tree17
+    3300122: Tree18
+    3300124: Tree19
+    3300126: Tree2
+    3300128: Tree20
+    3300130: Tree21
+    3300132: Tree22
+    3300134: Tree23
+    3300136: Tree24
+    3300138: Tree25
+    3300140: Tree26
+    3300142: Tree27
+    3300144: Tree28
+    3300146: Tree29
+    3300148: Tree3
+    3300150: Tree30
+    3300152: Tree31
+    3300154: Tree32
+    3300156: Tree33
+    3300158: Tree34
+    3300160: Tree35
+    3300162: Tree36
+    3300164: Tree37
+    3300166: Tree38
+    3300168: Tree39
+    3300170: Tree4
+    3300172: Tree5
+    3300174: Tree6
+    3300176: Tree8
+    3300178: Tree9
+    4300000: Ground1
+    4300002: River
+    4300004: House
+    4300006: Mountain
+    4300008: Docks
+    4300010: Bridge
+    4300012: Mountain1
+    4300014: Log
+    4300016: Log4
+    4300018: Log3
+    4300020: Log5
+    4300022: Log2
+    4300024: Log1
+    4300026: Floating_Log
+    4300028: Castle_Wall
+    4300030: Castle
+    4300032: Castle2
+    4300034: Castle1
+    4300036: Castle3
+    4300038: Mountain2
+    4300040: Tree16
+    4300042: Tree15
+    4300044: Tree14
+    4300046: Tree13
+    4300048: Tree12
+    4300050: Tree11
+    4300052: Tree10
+    4300054: Tree9
+    4300056: Tree8
+    4300058: Tree6
+    4300060: Tree5
+    4300062: Tree4
+    4300064: Tree3
+    4300066: Tree2
+    4300068: Tree1
+    4300070: Tree18
+    4300072: Tree28
+    4300074: Tree27
+    4300076: Tree26
+    4300078: Tree25
+    4300080: Tree24
+    4300082: Tree23
+    4300084: Tree22
+    4300086: Tree21
+    4300088: Tree20
+    4300090: Tree19
+    4300092: Tree29
+    4300094: Tree30
+    4300096: Tree31
+    4300098: Tree32
+    4300100: Tree33
+    4300102: Tree34
+    4300104: Tree35
+    4300106: Tree36
+    4300108: Tree37
+    4300110: Tree38
+    4300112: Tree39
+    4300114: Tree17
+    4300116: Tree
+    4300118: Rock2
+    4300120: Rock1
+    4300122: Rock
+    4300124: Rock4
+    4300126: Rock5
+    4300128: Rock6
+    4300130: Rock7
+    4300132: Rock8
+    4300134: Rock9
+    4300136: Rock10
+    4300138: Rock3
+    4300140: Rock11
+    4300142: Rock12
+    4300144: Cloud1
+    4300146: Cloud4
+    4300148: Cloud3
+    4300150: Cloud9
+    4300152: Cloud6
+    4300154: Cloud2
+    4300156: Cloud13
+    4300158: Cloud10
+    4300160: Cloud14
+    4300162: Cloud1
+    4300164: Cloud4
+    4300166: Cloud3
+    4300168: Cloud9
+    4300170: Cloud6
+    4300172: Cloud2
+    4300174: Cloud13
+    4300176: Cloud10
+    4300178: Cloud14
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bridge_Stone
+    second: {fileID: 2100000, guid: 441c7d010d2df55488fdf46d4e7da9e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown
+    second: {fileID: 2100000, guid: a444d5675958a21469568262411cb5af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: ac05858d474f44f4a8bc081fcb2ecdf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_Texture
+    second: {fileID: 2100000, guid: b22da558edb899245b55a6f7c1ce12d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kasteel_Texture
+    second: {fileID: 2100000, guid: 3957fcb6c0eb3cd4f806bdc8d58339b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow
+    second: {fileID: 2100000, guid: b1b5df90daf0b9a4b820d0edcdefed9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: 390d71c46f614584d95872fea21cd735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_Brown
+    second: {fileID: 2100000, guid: 0bdd1f781e88ece4e81bd00a24919704, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_Green
+    second: {fileID: 2100000, guid: 3d4be04970a8fdc4d9a8fec1012645e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water
+    second: {fileID: 2100000, guid: 599049e248f1b324ab2408797b114a54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 11fc7451114f2514fa7e13544cf58752, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boom_Texture
+    second: {fileID: 2800000, guid: 0b25ad9de2900b5498a3d6b17b4f879b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: House_Texture
+    second: {fileID: 2800000, guid: 4d8bfe43b8b3276499b3c30b8f8b2c4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kasteel_Texture
+    second: {fileID: 2800000, guid: c2f99617d4111f34ca3f4063e5e72aaa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Steen_Texture
+    second: {fileID: 2800000, guid: c5bc2ece8282b1344b24695146f72003, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Water_Texture
+    second: {fileID: 2800000, guid: f9199e368e90af14db19e6bda3df6fc2, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
